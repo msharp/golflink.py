@@ -1,0 +1,8 @@
+Golflink Module
+---------------
+
+This is some I wrote for a Google AppEngine project for my local golf club.
+
+Determines a player's current official handicap by screen-scraping the data from the golflink website.
+
+
